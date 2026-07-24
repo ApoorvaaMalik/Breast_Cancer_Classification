@@ -45,7 +45,7 @@ The dataset used is `breast_cancer_data.csv` — the **Breast Cancer Wisconsin (
 
 ```
 .
-├── breast_cancer_data.csv               # Dataset (not included in repo)
+├── breast_cancer_data.csv               # Dataset 
 ├── breast_cancer_classification.ipynb   # Main analysis & modeling notebook
 ├── plots/                               # Generated visualizations (EDA, heatmaps, confusion matrix)
 ├── requirements.txt                     # Python dependencies
@@ -122,4 +122,5 @@ The Random Forest classifier, trained on the 16 selected features, achieves stro
 ## Author
 
 **Apoorva Malik**
+
 GitHub: [ApoorvaaMalik](https://github.com/ApoorvaaMalik)
