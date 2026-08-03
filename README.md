@@ -1,4 +1,4 @@
-# Breast Cancer Diagnosis Classification 🔬
+# Breast Cancer Classification 🔬
 
 A machine learning project that classifies breast tumours as **Benign** or **Malignant** using the Breast Cancer Wisconsin Diagnostic dataset. The project covers exploratory data analysis, correlation-based feature selection, and classification with a Random Forest model.
 
